@@ -1,0 +1,4 @@
+To run this script, you'll need to have a Flir Blackfly S Camera.
+You will need to download Spinnaker SDK to be able to import the library PySpin.
+You will need to clone the yolov7 repository and put this script in.
+Install all yolov7 necessary libraries and run the Yolov7_Flir_BlackflyS_Camera_Deploy_Script.
