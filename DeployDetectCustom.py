@@ -1,9 +1,4 @@
 # -*- coding: utf-8 -*-
-"""
-Created on Wed Jun 14 14:35:48 2023
-
-@author: toff
-"""
 
 import os
 import cv2
